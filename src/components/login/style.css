@@ -1,0 +1,21 @@
+.loginWrapper{
+    width: 100%;
+    text-align: center;
+    height: calc(100% - 56px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginInputContainer{
+    margin: 10px;
+}
+
+.textField{
+    margin-bottom: 10px;
+}
+
+.MuiTextField-root{
+    width:300px;
+}
